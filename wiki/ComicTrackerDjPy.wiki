@@ -1,0 +1,32 @@
+A Django-Python application to manage hard-copy comic books
+
+= Introduction =
+
+I recently got into comics and as a burgeonin pythonista, I decided to put together a django-python app to keep track of all of the comics I've bought, the comics I've subscribed too, and the comics I want.
+
+As I mentioned, I am learning django, but "think" I know Python. If you see any suggestions in the source code, please let me know. Also, if you have any suggestions for how I can extend the app, I'll entertain those as well.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+= What is planned for the next versions =
+  * Master HTML template
+  * Filtering the book list by title/publisher
+  * paging through lists (books, subs, etc)
+  * CSS and "prettifying" the site.
+  * Want List
+  * Manage Subscriptions
+  * Login/Authentication/Session
+  * Edit books, subscriptions, wants...as opposed to view only or editing through the admin site.
+
+= What is in the initial 0.1a version =
+  * Main Menu and basic navigation
+  * Adding a book
+  * Seeing the book list
+  * Searching by comic title
+  * Test data
