@@ -1,0 +1,1 @@
+This is a Django-Python application to track and manage your hard-copy comic books. Requires Django 0.96 and Python 2.5. The application hasn't been tested with other configurations, but may work.
